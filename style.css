@@ -139,7 +139,7 @@ transition: 1s;
     .container{
         width: 90vw;
         height: 90vh;
-        font-family: var(--sans);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     .inner{
         width: 99%;
