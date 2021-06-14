@@ -18,7 +18,7 @@ width: 50vw;
 height: 70vh; 
 background: var(--main-color);
 border-radius: 15px;
-font-family: "dancing script", cursive;
+font-family: 'Quicksand', sans-serif;
 overflow: hidden;
 color: #797071;
 letter-spacing: 0.5px;
@@ -139,6 +139,7 @@ transition: 1s;
     .container{
         width: 90vw;
         height: 90vh;
+        font-family: var(--sans);
     }
     .inner{
         width: 99%;
